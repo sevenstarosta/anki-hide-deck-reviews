@@ -1,4 +1,3 @@
-#from aqt.deckbrowser import DeckBrowser
 import re
 from aqt import gui_hooks
 
